@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3-apigee.j
 x-kinRank: "10"
 x-alexaRank: "57961"
 tags: Apigee
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/apigee/master/_listings/apigee/apis.md
 specificationVersion: "0.14"
 apis: []
