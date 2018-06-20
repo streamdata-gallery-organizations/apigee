@@ -9,7 +9,9 @@ url: http://apigee.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
 tags: Apigee
-include: []
+include:
+- name: Apigee
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/apigee/master/_listings/apigee/apis.yaml
 maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
